@@ -1,0 +1,7 @@
+.env
+.mcp.json
+output/
+__pycache__/
+.claude/
+.venv/
+*.pyc
